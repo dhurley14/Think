@@ -1,9 +1,9 @@
 import math
-import survey
-from thinkstats import MeanVar
-from first_answer import PartitionRecords
-import myplot
-import Pmf
+from libs import survey
+from libs.thinkstats import MeanVar
+from libs.first_answer import PartitionRecords
+from libs import myplot
+from libs import Pmf
 
 table = survey.Pregnancies()
 table.ReadRecords()

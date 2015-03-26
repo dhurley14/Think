@@ -1,4 +1,4 @@
-import Pmf
+from libs import Pmf
 import matplotlib.pyplot as pyplot
 
 vals, freqs = hist.Render()

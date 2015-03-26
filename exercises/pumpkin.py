@@ -1,5 +1,5 @@
 import math
-from thinkstats import Var, Mean
+from libs.thinkstats import Var, Mean
 
 DATA = [1,2,3,3,4]
 sigma_2 = Var(DATA)

@@ -1,6 +1,6 @@
 import math
-import Pmf
-import descriptive
+from libs import Pmf
+from libs import descriptive
 """ calculate the probability of a baby being born on time
 (Weeks 38, 39, 40), early (t <= 37) or late (t >= 41)
 

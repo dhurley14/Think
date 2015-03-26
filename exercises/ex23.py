@@ -1,5 +1,5 @@
 import math
-import Pmf
+from libs import Pmf
 import operator
 from collections import OrderedDict
 

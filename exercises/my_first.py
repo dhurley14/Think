@@ -1,4 +1,4 @@
-import survey
+from libs import survey
 
 table = survey.Pregnancies()
 table.ReadRecords()

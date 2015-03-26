@@ -1,4 +1,4 @@
-import Pmf
+from libs import Pmf
 import sys
 
 
